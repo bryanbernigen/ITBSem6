@@ -1,3 +1,12 @@
 [submodule "SistemEmbedded"]
 	path = SistemEmbedded
 	url = https://github.com/bryanbernigen/SistemEmbedded
+[submodule "PPL/coursereview-be"]
+	path = PPL/coursereview-be
+	url = https://gitlab.informatika.org/rannnayy/coursereview-be
+[submodule "PPL/coursereview-fe"]
+	path = PPL/coursereview-fe
+	url = https://gitlab.informatika.org/rannnayy/coursereview-fe
+[submodule "PBD/if3210-2023-android-rbk"]
+	path = PBD/if3210-2023-android-rbk
+	url = https://gitlab.informatika.org/rannnayy/if3210-2023-android-rbk

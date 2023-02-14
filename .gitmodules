@@ -10,3 +10,6 @@
 [submodule "PBD/if3210-2023-android-rbk"]
 	path = PBD/if3210-2023-android-rbk
 	url = https://gitlab.informatika.org/rannnayy/if3210-2023-android-rbk
+[submodule "Sister/if3230-tucil-sister-tubes-logkom"]
+	path = Sister/if3230-tucil-sister-tubes-logkom
+	url = https://github.com/Sister19/if3230-tucil-sister-tubes-logkom

@@ -13,3 +13,6 @@
 [submodule "Sister/if3230-tucil-sister-tubes-logkom"]
 	path = Sister/if3230-tucil-sister-tubes-logkom
 	url = https://github.com/Sister19/if3230-tucil-sister-tubes-logkom
+[submodule "Grafkom/Tubes1Grafkom"]
+	path = Grafkom/Tubes1Grafkom
+	url = https://github.com/bryanbernigen/Tubes1Grafkom

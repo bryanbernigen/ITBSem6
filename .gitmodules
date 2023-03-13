@@ -16,3 +16,6 @@
 [submodule "Grafkom/Tubes1Grafkom"]
 	path = Grafkom/Tubes1Grafkom
 	url = https://github.com/bryanbernigen/Tubes1Grafkom
+[submodule "Grafkom/IF3260_Tugas2_K01_G02"]
+	path = Grafkom/IF3260_Tugas2_K01_G02
+	url = https://github.com/JayaMangalo/IF3260_Tugas2_K01_G02

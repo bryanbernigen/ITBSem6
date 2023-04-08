@@ -22,3 +22,9 @@
 [submodule "ML/Tubes1ML"]
 	path = ML/Tubes1ML
 	url = https://github.com/bryanbernigen/Tubes1ML
+[submodule "PBD/if3210-2023-unity-ugw"]
+	path = PBD/if3210-2023-unity-ugw
+	url = https://gitlab.informatika.org/if3210-2023-unity-ugw/if3210-2023-unity-ugw
+[submodule "Grafkom/IF3260_Tugas3_K01_G02"]
+	path = Grafkom/IF3260_Tugas3_K01_G02
+	url = https://github.com/JayaMangalo/IF3260_Tugas3_K01_G02

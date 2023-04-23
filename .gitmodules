@@ -28,3 +28,6 @@
 [submodule "Grafkom/IF3260_Tugas3_K01_G02"]
 	path = Grafkom/IF3260_Tugas3_K01_G02
 	url = https://github.com/JayaMangalo/IF3260_Tugas3_K01_G02
+[submodule "Sister/if3230-tubes-tubes-logkom"]
+	path = Sister/if3230-tubes-tubes-logkom
+	url = https://github.com/Sister19/if3230-tubes-tubes-logkom

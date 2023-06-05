@@ -31,3 +31,6 @@
 [submodule "Sister/if3230-tubes-tubes-logkom"]
 	path = Sister/if3230-tubes-tubes-logkom
 	url = https://github.com/Sister19/if3230-tubes-tubes-logkom
+[submodule "KP/tvmaze_flutter_app"]
+	path = KP/tvmaze_flutter_app
+	url = https://github.com/bryanbernigen/tvmaze_flutter_app
